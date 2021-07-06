@@ -14,6 +14,7 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 
 ## ADD your name here
-
+- Adding something entirely new
 - Steve Rogers
 - Ryan Hamblin
+- Adam Smith
